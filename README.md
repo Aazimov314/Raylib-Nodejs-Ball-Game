@@ -24,5 +24,7 @@ ARROW KEYS = Left, Right, Up, Down
 
 # Preview
 
+![Alt text](https://github.com/Aazimov314/Raylib-Nodejs-Ball-Game/blob/main/Images/Ball.png)
+![Alt text](https://github.com/Aazimov314/Raylib-Nodejs-Ball-Game/blob/main/Images/BallCollision.png)
 
 
